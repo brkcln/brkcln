@@ -1,51 +1,125 @@
 <!DOCTYPE html>
-<html lang="en" >
-<head>
-  <meta charset="UTF-8">
-  <title>Burak Celen | Portfolio</title>
-  <link rel="preconnect" href="https://fonts.gstatic.com">
-  <link href="https://fonts.googleapis.com/css2?family=Gloria+Hallelujah&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="./css/style2.css">
-  </head>
-<body>
-   <!-- header: start -->
-  <header>
-    <nav>
-        <ul class="c-nav">
-            <li class="c-nav__item"><a class="btn" href="index.html" >Home
-               </a></li>
-            <li class="c-nav__item"><a class="btn" href="portfolio.html" actived>Portfolio
-                </a></li>
-        </ul>
-    </nav>
-</header>
- <!-- header: end -->
-  <!-- Portfolio: start -->
-<div class="container">
-  
-  <div class="card">
-    <a href="https://brkcln.github.io/GuessMyNumber/">
-    <img src="./image/guessmynamber.png">
- <div class="card__head">CanYouGuessTheNumber</div>
-  </div></a>
-  <div class="card">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/False_alarm_-a.jpg/1280px-False_alarm_-a.jpg">
-    <div class="card__head">Angry Cat</div>
-  </div>
-  <div class="card">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Neugierige-Katze.JPG/1280px-Neugierige-Katze.JPG">
-    <div class="card__head">Curious Cat</div>
-  </div>
-  <div class="card">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Al_acecho_%289272124788%29.jpg/1280px-Al_acecho_%289272124788%29.jpg">
-    <div class="card__head">Prowling Cat</div>
-  </div>
-  <div class="card">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Mimi%26Tigsi.jpg/1280px-Mimi%26Tigsi.jpg">
-    <div class="card__head">Sleepy Cat</div>
-  </div>
-</div>
-<!-- portfolio: End -->
-  
-</body>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<title>brkcln | Portfolio</title>
+		<!-- slider css -->
+		<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@splidejs/splide@latest/dist/css/splide.min.css" />
+		<!-- font awesome cdn -->
+		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" referrerpolicy="no-referrer" />
+		<!-- custom css -->
+		<link type="text/css" rel="stylesheet" href="/css/style.css" />
+		<!-- custom media css -->
+		<link type="text/css" rel="stylesheet" href="/css/media.css" />
+	</head>
+	<body>
+		<!-- nav start -->
+		<nav>
+			<div class="nav-header">
+				<h1>PORTFOLIO</h1>
+			</div>
+			<ul>
+				<li>
+					<a href="/index.html"><i class="fas fa-arrow-left"></i> Home</a>
+				</li>
+			</ul>
+		</nav>
+
+		<!-- portfolio hero starts -->
+		<div class="container">
+			<div class="portfolio-parent">
+				<div class="portfolio-project port1">
+					<div class="layer">
+						<h2>Onur Hair</h2>
+						<button class="myBtn">More Detail..</button>
+					</div>
+					<div id="myModal" class="modal">
+						<!-- Modal content -->
+						<div class="modal-content">
+							<span class="close">&times;</span>
+
+							<div id="primary-slider" class="splide">
+								<div class="splide__track">
+									<ul class="splide__list">
+										<li class="splide__slide"><a href="/img/onur-main.png"></a></li>
+										<li class="splide__slide"><a href="/img/onur-about.png"></a></li>
+										<li class="splide__slide"><a href="/img/onur-works.png"></a></li>
+										<li class="splide__slide"><a href="/img/onur-footer.png"></a></li>
+									</ul>
+								</div>
+							</div>
+							<div id="secondary-slider" class="splide">
+								<div class="splide__track">
+									<ul class="splide__list">
+										<li class="splide__slide"><a href="/img/onur-main.png"></a></li>
+										<li class="splide__slide"><a href="/img/onur-about.png"></a></li>
+										<li class="splide__slide"><a href="/img/onur-works.png"></a></li>
+										<li class="splide__slide"><a href="/img/onur-footer.png"></a></li>
+									</ul>
+								</div>
+							</div>
+						</div>
+						<!-- modal end -->
+					</div>
+				</div>
+
+				<div class="portfolio-project port2">
+					<div class="layer">
+						<h2>Sulbeti Corp.</h2>
+						<button class="myBtn">More Detail..</button>
+					</div>
+
+					<div id="myModal" class="modal">
+						<!-- Modal content -->
+						<div class="modal-content">
+							<span class="close">&times;</span>
+							<p>Some text in the Modal..</p>
+						</div>
+					</div>
+				</div>
+
+				<div class="portfolio-project port3">
+					<div class="layer">
+						<h2>Sitech.</h2>
+						<button class="myBtn">More Detail..</button>
+					</div>
+
+					<div id="myModal" class="modal">
+						<!-- Modal content -->
+						<div class="modal-content">
+							<span class="close">&times;</span>
+							<p>Some text in the Modal..</p>
+						</div>
+					</div>
+				</div>
+
+				<div class="portfolio-project port4">
+					<div class="layer">
+						<h2>Lightern</h2>
+						<button class="myBtn">More Detail..</button>
+					</div>
+
+					<div id="myModal" class="modal">
+						<!-- Modal content -->
+						<div class="modal-content">
+							<span class="close">&times;</span>
+							<p>Some text in the Modal..</p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<!-- portfolio hero ends -->
+
+		<!-- slider cdn -->
+		<script src="https://cdn.jsdelivr.net/npm/@splidejs/splide@latest/dist/js/splide.min.js"></script>
+
+		<!--  anime js cdn -->
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/animejs/3.2.1/anime.min.js" referrerpolicy="no-referrer"></script>
+
+		<!-- javascript -->
+		<script src="/js/script.js"></script>
+	</body>
 </html>
