@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://brkcln.github.io/brkcln/portfolio.html](https://brkcln.github.io/brkcln/portfolio.html)
 
-- 💬 Ask me about **HTML,CSS,Javascript**
+- 💬 Ask me about **HTML, CSS, Javascript**
 
 - 📫 How to reach me **burakcelen17@gmail.com**
 
