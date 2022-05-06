@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **React,Nextjs,Ecmascript**
 
-- 👨‍💻 All of my projects are available at [https://brkcln.github.io/brkcln/portfolio.html](https://brkcln.github.io/brkcln/portfolio.html)
+- 👨‍💻 All of my projects are available at [https://brkcln.github.io/brkcln/portfolio.html](https://brkcln.github.io/brkcln)
 
 - 💬 Ask me about **HTML, CSS, Javascript**
 
 - 📫 How to reach me **burakcelen17@gmail.com**
 
-- 📄 Know about my experiences [https://brkcln.github.io/brkcln/index.html](https://brkcln.github.io/brkcln/index.html)
+- 📄 Know about my experiences [https://brkcln.github.io/brkcln/index.html](https://brkcln.github.io/brkcln)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
