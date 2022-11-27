@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Burak</h1>
 <h3 align="center">Freelance frontend developer from Turkey</h3>
 
-- 🔭 I’m currently working on [frontendmentor challanges](https://www.frontendmentor.io)
+- 🔭 I’m currently working on [VUE js]
 
-- 🌱 I’m currently learning **React,Nextjs,Ecmascript**
+- 🌱 I’m currently learning **Vue Js, Bootstrap, Javascript**
 
 - 👨‍💻 All of my projects are available at [https://brkcln.github.io/brkcln/portfolio.html](https://brkcln.github.io/brkcln)
 
