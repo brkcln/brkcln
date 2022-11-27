@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Burak</h1>
-<h3 align="center">Freelance frontend developer from Turkey</h3>
+<h3 align="center">Frontend developer from Turkey</h3>
 
 - 🔭 I’m currently working on [VUE js]
 
