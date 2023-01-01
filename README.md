@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [VUE js]
 
-- 🌱 I’m currently learning **Vue Js, Bootstrap, Javascript**
+- 🌱 I’m currently learning **Vue Js, Bootstrap, Javascript, Tailwind**
 
 - 👨‍💻 All of my projects are available at [https://brkcln.github.io/brkcln/portfolio.html](https://brkcln.github.io/brkcln)
 
