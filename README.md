@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Vue Js, Bootstrap, Javascript, Tailwind**
 
-- 👨‍💻 All of my projects are available at [https://burakcelen.com](My Website)
+- 👨‍💻 All of my projects are available at [https://www.burakcelen.com](My Website)
 
 - 💬 Ask me about **HTML, CSS, Javascript, Vuejs, ChatGPT**
 
