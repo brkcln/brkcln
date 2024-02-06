@@ -5,13 +5,11 @@
 
 - 🌱 I’m currently learning **Vue Js, Bootstrap, Javascript, Tailwind**
 
-- 👨‍💻 All of my projects are available at [https://brkcln.github.io/brkcln/portfolio.html](https://brkcln.github.io/brkcln)
+- 👨‍💻 All of my projects are available at [https://burakcelen.com](My Website)
 
 - 💬 Ask me about **HTML, CSS, Javascript, Vuejs, ChatGPT**
 
 - 📫 How to reach me **burakcelen17@gmail.com**
-
-- 📄 Know about my experiences [https://brkcln.github.io/brkcln/index.html](https://brkcln.github.io/brkcln)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
