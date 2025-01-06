@@ -3,11 +3,9 @@
 
 - 🔭 I’m currently working on [VUE js]
 
-- 🌱 I’m currently learning **Vue Js, Bootstrap, Javascript, Tailwind**
+- 🌱 I’m currently learning **Vue Js, Bootstrap, Javascript, Laravel, Intertia, Soketio, PrimeVue,Tailwind**
 
 - 👨‍💻 All of my projects are available at https://www.burakcelen.com
-
-- 💬 Ask me about **HTML, CSS, Javascript, Vuejs, ChatGPT**
 
 - 📫 How to reach me **burakcelen17@gmail.com**
 
