@@ -27,7 +27,7 @@ All live, all with real users.
 ```
 Backend:    PHP · Laravel · REST APIs · Authentication · Queues · WebSockets · Redis
 Frontend:   Vue 3 · Nuxt 3 · TypeScript · Inertia.js · Vite · Tailwind · PrimeVue
-Database:   MySQL (indexes, query optimization)
+Database:   MySQL. Postgresql (indexes, query optimization)
 Tools:      Docker · Git · GitHub Actions (CI/CD) · PHPUnit/Pest · Vitest
 ```
 
