@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Burak</h1>
-<h3 align="center">Frontend developer from Turkey</h3>
+<h3 align="center">Fullstack developer from Turkey</h3>
 
 - 🔭 I’m currently working on [VUE js]
 
-- 🌱 I’m currently learning **Vue Js, Bootstrap, Javascript, Laravel, Intertia, Soketio, PrimeVue,Tailwind**
-
-- 👨‍💻 All of my projects are available at https://www.burakcelen.com
+- 🌱 I’m currently learning **Vue Js, Nuxt, Bootstrap, Javascript, Laravel, Intertia, Soketio, PrimeVue, Tailwind**
 
 - 📫 How to reach me **burakcelen17@gmail.com**
 
