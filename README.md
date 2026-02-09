@@ -35,10 +35,10 @@ Tools:      Docker · Git · GitHub Actions (CI/CD) · PHPUnit/Pest · Vitest
 
 ### How I Work
 
-- I own features end-to-end — from database design to UI
+- I own features end-to-end from database design to UI
 - Comfortable stepping into existing codebases and legacy projects
 - Async-first communication, experienced with Slack, ClickUp, and similar tools
-- I ship clean, maintainable code — not just code that works
+- I ship clean, maintainable code not just code that works
 
 ---
 
