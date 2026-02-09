@@ -1,32 +1,48 @@
-<h1 align="center">Hi 👋, I'm Burak</h1>
-<h3 align="center">Fullstack developer from Turkey</h3>
+# Hey, I'm Burak 👋
 
-- 🔭 I’m currently working on [VUE js]
+Full-stack developer building SaaS platforms, CRMs, and internal tools with **Laravel** and **Vue/Nuxt**.
 
-- 🌱 I’m currently learning **Vue Js, Nuxt, Bootstrap, Javascript, Laravel, Intertia, Soketio, PrimeVue, Tailwind**
+Based in Turkey, working remotely with distributed teams.
 
-- 📫 How to reach me **burakcelen17@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/brkcln" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="brkcln" height="30" width="40" /></a>
-</p>
+### What I Do
 
-<p align="left">
+I build and maintain production web applications — mostly multi-tenant SaaS products, admin dashboards, and CRM systems. I've been doing this for 4+ years, working with startups and small teams.
 
-I build SaaS apps, CRMs, and dashboards with Laravel and Vue.
-Been doing this for about 4 years, mostly with startups and small teams.
+Some things I've built:
 
-If your project is unfinished or you need someone to take over code from another developer, I can do that.
-I step into existing projects quite often.
-
-Some things I’ve built:
--A marketplace like Craigslist
--A CRM that connects WhatsApp and Telegram in one inbox
--A SaaS with dynamic pricing and an AI-powered CMS
+- 🎵 **Music Distribution SaaS** — Artist payouts, subscriptions, reporting dashboards (500+ users)
+- 💬 **Health CRM** — Omnichannel chat integrating WhatsApp, Telegram, and Facebook in one inbox
+- 🚌 **Bus Ticket SaaS** — Dynamic pricing, route management, multi-tenant architecture
+- 🏪 **Marketplace Platform** — Craigslist-style listings with geolocation, filters, and messaging
+- 🤖 **AI-Powered CMS** — Multi-tenant CMS with LangChain-based workflows
 
 All live, all with real users.
-I do both frontend and backend, and I’m comfortable working with your team on Slack, ClickUp, or whatever you use.
 
-Want to talk about your project? Just send a message.
-</p>
+---
+
+### Tech Stack
+
+```
+Backend:    PHP · Laravel · REST APIs · Authentication · Queues · WebSockets · Redis
+Frontend:   Vue 3 · Nuxt 3 · TypeScript · Inertia.js · Vite · Tailwind · PrimeVue
+Database:   MySQL (indexes, query optimization)
+Tools:      Docker · Git · GitHub Actions (CI/CD) · PHPUnit/Pest · Vitest
+```
+
+---
+
+### How I Work
+
+- I own features end-to-end — from database design to UI
+- Comfortable stepping into existing codebases and legacy projects
+- Async-first communication, experienced with Slack, ClickUp, and similar tools
+- I ship clean, maintainable code — not just code that works
+
+---
+
+### Get in Touch
+
+- 📧 burakcelen17@gmail.com
+- 💼 [LinkedIn](https://linkedin.com/in/brkcln)
