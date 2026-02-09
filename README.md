@@ -8,7 +8,7 @@ Based in Turkey, working remotely with distributed teams.
 
 ### What I Do
 
-I build and maintain production web applications — mostly multi-tenant SaaS products, admin dashboards, and CRM systems. I've been doing this for 4+ years, working with startups and small teams.
+I build and maintain production web applications mostly multi-tenant SaaS products, admin dashboards, and CRM systems. I've been doing this for 4+ years, working with startups and small teams.
 
 Some things I've built:
 
